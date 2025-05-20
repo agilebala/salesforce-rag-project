@@ -1,4 +1,4 @@
-**Salesforce Earnings Call RAG System**
+ RAG Project Azure OpenAI + CosmosDB System**
 
 This project implements a Retrieval-Augmented Generation (RAG) system for analyzing Salesforce's quarterly earnings call transcripts. 
 It provides Question & Answer and summarization capabilities through a conversational user interface, optimized for processing local `.txt` files.
